@@ -3,8 +3,8 @@ in this project I am analyzing cleaning and visualizing the Fashion MNIST data s
 1. Data wrangling (Data gathering , Data assessing , Data cleaning).
 2. Exploratory Data Analysis.
 3. using different regularization techniques to reduce overfitting:
-    - $\ell_1$ regularization .
-    - $\ell_2$ regularization.
+    - l_1 regularization .
+    - l_2 regularization.
     - drop out regularization .
     - Alpha Dropout regularization.
     - MC Dropout regularization.
